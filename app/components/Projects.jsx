@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
+import Image from "next/image";
 
 export default function Projects() {
   return (
@@ -33,7 +34,7 @@ export default function Projects() {
             </div>
              <div className="project-card">
                 <div className="project-image">
-                   <img src="/projects_img/BlindNav_photo.png" alt="" />
+                   <img src="/Projects_img/BlindNav_photo.png" alt="" />
                 </div>
                 <div className="project-content">
                     <h3>Blind Navigation Website</h3>
@@ -52,7 +53,7 @@ export default function Projects() {
             </div>
              <div className="project-card">
                 <div className="project-image">
-                   <img src="/projects_img/smat-helmet.png" alt="" />
+                   <img src="/Projects_img/smat-helmet.png" alt="" />
                 </div>
                 <div className="project-content">
                     <h3>smart IOT Helmet</h3>
@@ -67,7 +68,7 @@ export default function Projects() {
                         <span className="tech-tag">Css</span>
                          <span className="tech-tag">C++</span>
                     </div>
-                    <div className="project-links">
+                    <div className="Project-links">
                         <a href="#" className="project-link"> Live Demo</a>
                          <a href="https://github.com/Syedowais312/Smart_Helmet" className="project-link"> GitHub</a>
                     </div>
@@ -75,7 +76,7 @@ export default function Projects() {
             </div>
  <div className="project-card">
                 <div className="project-image">
-                   <img src="/projects_img/Farmer_game.png" alt="" />
+                   <img src="/Projects_img/Farmer_game.png" alt="" />
                 </div>
                 <div className="project-content">
                     <h3>Farmer-Hunter Game</h3>
@@ -96,7 +97,7 @@ export default function Projects() {
             </div>
             <div className="project-card">
                 <div className="project-image">
-                   <img src="/projects_img/Textutilies.png" alt="" />
+                   <img src="/Projects_img/Textutilies.png" alt="" />
                 </div>
                 <div className="project-content">
                     <h3>Smart Text Converter | Word Count, Case Tools & Reading Time</h3>
@@ -119,7 +120,7 @@ export default function Projects() {
             </div>
 <div className="project-card">
                 <div className="project-image">
-                   <img src="/projects_img/News_website.png" alt="" />
+                   <img src="/Projects_img/News_website.png" alt="" />
                 </div>
                 <div className="project-content">
                     <h3>TechNewsX – A Dynamic News Aggregator</h3>
