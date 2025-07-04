@@ -53,7 +53,7 @@ export default function Projects() {
             </div>
              <div className="project-card">
                 <div className="project-image">
-                   <img src="/Projects_img/smat-helmet.png" alt="" />
+                   <img src="/Projects_img/Smart-helmet.png" alt="" />
                 </div>
                 <div className="project-content">
                     <h3>smart IOT Helmet</h3>
@@ -101,10 +101,12 @@ export default function Projects() {
                 </div>
                 <div className="project-content">
                     <h3>Smart Text Converter | Word Count, Case Tools & Reading Time</h3>
-                    <p>Smart Helmet – An intelligent safety helmet equipped with obstacle detection 
-                        and voice alerts for construction workers and bikers. It uses real-time sensors
-                         and AI to detect potential hazards and instantly notifies the wearer through audio
-                          feedback, enhancing safety in dynamic environments.(Esp32 code is not in github for now).</p>
+                    <p>Text Converter Web App – My very first web development project, designed
+                         to help users easily manipulate and analyze text. The app allows users to 
+                         convert text to uppercase/lowercase, extract email addresses, and clear input
+                          instantly. It also calculates the total number of words, characters, and gives an
+                           estimated reading time, making it a handy tool for content creators and developers 
+                           alike.(Esp32 code is not in github for now).</p>
                     <div className="project-tech">
                         <span className="tech-tag">Reactjs</span>
                         <span className="tech-tag">Javascript</span>
