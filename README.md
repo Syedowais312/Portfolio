@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💼 Syed Owais – Developer Portfolio
 
-## Getting Started
+Welcome to my personal portfolio repository! I'm **Syed Owais**, a passionate full-stack developer, game developer, and tech enthusiast. This portfolio showcases my journey, skills, and some of the exciting projects I've worked on.
 
-First, run the development server:
+## 🌐 Website Preview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 About Me
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 💻 Full-stack Web Developer (React, Node.js, MongoDB)
+- 🎮 Unreal Engine Developer (Blueprint & C++)
+- 🧠 Exploring AI/ML and building intelligent applications
+- 🔧 Regular hackathon participant, problem-solver, and tech learner
+- 📍 Based in India
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+| Frontend        | Backend        | Game Dev        | Tools/Other        |
+|-----------------|----------------|------------------|--------------------|
+| React, HTML, CSS, JavaScript | Node.js, Express, Python | Unreal Engine 5, C++ | Git, GitHub, VSCode |
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Featured Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🔹 [Blind Navigation Website]
+> Voice-guided web app for visually impaired users with real-time object detection and GPS routing.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🔹 [Smart AI Helmet]
+> AI-powered safety helmet that detects obstacles and alerts the user via audio.
 
-## Deploy on Vercel
+### 🔹 [Farmer Escape Adventure]
+> A 3D survival game in Unreal Engine where players collect treasures while escaping enemy farmers.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🔹 [Text Converter Tool]
+> A beginner-friendly web utility to count words, estimate reading time, extract emails, and modify case.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🔹 [TechNewsX News App]
+> A responsive news aggregator built with React and News API integration.
+
+## 📫 Contact Me
+
+- 📧 Email: [syedowais312sf@gmail.com] 
+-  
+- 🔗 LinkedIn: [www.linkedin.com/in/syed-owais-569a872a6] 
+- 🐙 GitHub: [github.com/Syedowais312]
+---
+
+Thanks for checking out my work! Feel free to connect or collaborate.
