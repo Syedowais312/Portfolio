@@ -22,12 +22,12 @@ export default function Hero() {
   useEffect(() => {
    
     const terminalTexts = [
-      "Full Stack Web Developer",
-  "AI/ML Enthusiast",
-  "OPen source contributor",
-  "Hackathon Builder 🚀",
-  "Game Developer (Unreal Engine)",
-  "Tech Explorer 🔍",
+      ">Full Stack Web Developer",
+  ">AI/ML Enthusiast",
+  ">OPen source contributor",
+  ">Hackathon Builder 🚀",
+  ">Game Developer (Unreal Engine)",
+  ">Tech Explorer 🔍",
       "> Code, Create, Innovate, Repeat...",
     ];
 
@@ -71,7 +71,7 @@ export default function Hero() {
 
       {/* Hero Content */}
       <div className="hero-content">
-        <h1 className="typing-text">Syed Owais</h1>
+        <h1 className="typing-text"> Hi! Syed Owais</h1>
         <p>Engineering Student | Problem Solver | Future Innovator</p>
         <div className="terminal">
           <div className="terminal-content">

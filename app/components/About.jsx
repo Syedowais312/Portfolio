@@ -13,9 +13,9 @@ export default function ABout() {
                 </div>
                 <div className="about-text">
                     <h3>Engineering the Future</h3>
-                    <p>I'm a driven engineering student with a strong foundation in software development, full-stack web and mobile apps, and AI-powered solutions. My passion lies in using technology to solve real-world challenges—from building voice-guided tools for the visually impaired to creating intelligent learning and environmental awareness platforms..</p>
-                    <p>Currently pursuing my Engineering degree, I'm constantly experimenting with tools like React, Next.js, OpenCV, Unreal Engine, and Python-based AI models. I enjoy diving deep into system design, innovative UIs, and automation.</p>
-                    <p>When I’m not coding or brainstorming hackathon ideas, I love contributing to open-source, exploring emerging tech, and building impactful projects with like-minded peers. I believe in learning by doing, staying future-ready, and making a difference through tech..</p>
+                    <p>I'm a driven <span className='text-green-500'>engineering student</span> with a strong foundation in software development,<span className='text-green-500'>full-stack web</span> and mobile apps, and AI-powered solutions. My passion lies in using technology to solve real-world challenges—from building voice-guided tools for the visually impaired to creating intelligent learning and environmental awareness platforms..</p>
+                    <p>Currently pursuing my <span className='text-green-500'>Engineering degree</span>, I'm constantly experimenting with tools like React, Next.js, OpenCV, Unreal Engine, and Python-based AI models. I enjoy diving deep into system design, innovative UIs, and automation.</p>
+                    <p>When I’m not coding or brainstorming hackathon ideas,  <span className='text-green-500'>I love contributing to open-source</span>, exploring emerging tech, and building impactful projects with like-minded peers. I believe in learning by doing, staying future-ready, and making a difference through tech..</p>
                 </div>
             </div>
         </div>

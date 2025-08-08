@@ -5,6 +5,7 @@ import Image from "next/image";
 export default function Projects() {
   return (
     <>
+    <div className='bg-gradient-to-r from-slate-900 to-blue-950'>
     <section id="projects">
       <div className="container">
         <h2 className="section-title">Featured Projects</h2>
@@ -149,6 +150,7 @@ export default function Projects() {
         </div>
       </div>
     </section>
+    </div>
     </>
   )
 }
