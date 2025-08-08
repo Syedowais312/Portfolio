@@ -110,20 +110,8 @@ export default function Navbar() {
             </li>
           ))}
 
-          {/* Social Icons (Mobile) */}
-          <div className="flex gap-4 mt-2">
-            {socialIcons.map(({ name, href, icon }) => (
-              <a
-                key={name}
-                href={href}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-white hover:text-green-400 text-xl"
-              >
-                {icon}
-              </a>
-            ))}
-          </div>
+         
+         
         </ul>
       )}
     </nav>

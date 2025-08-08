@@ -106,7 +106,7 @@ export default function Projects() {
                          convert text to uppercase/lowercase, extract email addresses, and clear input
                           instantly. It also calculates the total number of words, characters, and gives an
                            estimated reading time, making it a handy tool for content creators and developers 
-                           alike.(Esp32 code is not in github for now).</p>
+                           alike.</p>
                     <div className="project-tech">
                         <span className="tech-tag">Reactjs</span>
                         <span className="tech-tag">Javascript</span>

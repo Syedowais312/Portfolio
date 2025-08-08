@@ -63,7 +63,6 @@ export default function Skills() {
         { name: "Tailwind CSS", src: "/FTIcons/tailwindcss.svg" },
         { name: "Bootstrap", src: "/FTIcons/bootstrap.svg" },
          { name: "Github", src: "/FTIcons/github-white-icon.svg" },
-        { name: "TailwindCss", src: "/FTIcons/tailwindcss.svg" },
         { name: "Git", src: "/FTIcons/git.svg" },
         { name: "express.js", src: "/FTIcons/express-js.svg" },
       ].map(({ name, src }) => (
