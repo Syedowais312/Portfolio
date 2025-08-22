@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { FaGithub, FaLinkedin, FaInstagram, FaTwitter } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si"; // For Leetcode
+import { SiLeetcode } from "react-icons/si"; 
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -76,7 +76,7 @@ export default function Navbar() {
             ))}
           </ul>
 
-          {/* Social Icons */}
+         
           
         </div>
 

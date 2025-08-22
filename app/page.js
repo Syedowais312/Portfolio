@@ -24,7 +24,7 @@ export default function Home() {
      
     
       <div className="loading-bar"></div>
-      <Navbar/>
+     
     <Hero/>
      <About/>
     <Skills/>

@@ -71,7 +71,7 @@ export default function Hero() {
 
       {/* Hero Content */}
       <div className="hero-content">
-        <h1 className="typing-text"> Hi! Syed Owais</h1>
+        <h1 className="typing-text"> Hi! i'm Syed Owais</h1>
         <p>Engineering Student | Problem Solver | Future Innovator</p>
         <div className="terminal">
           <div className="terminal-content">
