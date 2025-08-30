@@ -1,4 +1,28 @@
 export const items = [
+   {
+    projectName:"EduFlow-LMS",
+    title: "EduFlow-LMS",
+    desc: "EduFlow-LMS is a modern Learning Management System that simplifies the teaching and learning process by enabling teachers to create, assign, and track assignments effortlessly, while providing students with an easy platform to view, complete, and submit their work on time—making education more organized, efficient, and collaborative.",
+    time: "31-08-2025",
+    heading:">smart Work",
+    image: "/Projects_img/EduFlow-LMS.png",
+    github: "https://github.com/Syedowais312/EduFlow-LMS", 
+    github2:"https://github.com/Syedowais312/EduFlow-LMS-Backend",
+    demo: "https://edu-flow-lms.vercel.app/" ,
+    techstack:["NextJs","Tailswind","Golang","Javascript","css"]            
+  },
+    {
+    projectName:"hope-foundation",
+    title: "hope-foundation",
+    desc: "> Hope Foundation is a web platform designed to connect donors with underprivileged communities, enabling transparent and efficient support. It simplifies donations, volunteer efforts, and outreach using a user-friendly interface built with React and Node.js",
+    time: Date.now(),
+    heading:"> a new way of life",
+    image: "/Projects_img/Donation-project.png",
+    github: "https://github.com/Syedowais312/Hope-Foundation",   
+    demo: "Coming soon" ,
+    techstack:["NextJS","JavaScript","MongoDB","Tailwind","Stripe"]   
+  },
+
   {
     projectName:"BlindNav",
     title: "smart IOT Helmet",
@@ -6,21 +30,11 @@ export const items = [
     time: Date.now(),
     heading:"> hope of blind people",
     image: "/Projects_img/BlindNav_photo.png",
-    github: "https://github.com/syedowais312",  
-    demo: "https://your-demo-link.com"  ,
+    github: "https://github.com/Syedowais312/VisiualAI.github.io",  
+    demo: "Coming soon" ,
     techstack:["ReactJS","python","Tailwind"]            
   },
-  {
-    projectName:"hope-foundation",
-    title: "hope-foundation",
-    desc: "> Hope Foundation is a web platform designed to connect donors with underprivileged communities, enabling transparent and efficient support. It simplifies donations, volunteer efforts, and outreach using a user-friendly interface built with React and Node.js",
-    time: Date.now(),
-    heading:"> a new way of life",
-    image: "/Projects_img/Donation-project.png",
-    github: "https://github.com/syedowais312",   
-    demo: "https://your-demo-link.com" ,
-    techstack:["NextJS","JavaScript","MongoDB","Tailwind","Stripe"]   
-  },
+
   {
     projectName:"smart-helmet",
     title: "smart IOT Helmet",
@@ -28,8 +42,8 @@ export const items = [
     time: Date.now(),
     heading:"> Safe Ride",
     image: "/Projects_img/Smart-helmet.png",
-    github: "https://github.com/syedowais312", 
-    demo: "https://your-demo-link.com" ,
+    github: "https://github.com/Syedowais312/Smart_Helmet", 
+    demo: "Coming soon" ,
     techstack:["C++","NextJs","ESP32"]            
   },
   {
@@ -39,8 +53,8 @@ export const items = [
     time: Date.now(),
     heading:"> Rescue Farmer",
     image: "/Projects_img/Farmer_game.png",
-    github: "https://github.com/syedowais312", 
-    demo: "https://your-demo-link.com" ,
+    github: "no githb repo", 
+    demo: "unreal-engine" ,
     techstack:["Unreal","Blueprint"]        
   },
     {
@@ -51,7 +65,7 @@ export const items = [
     heading:">smart Work",
     image: "/Projects_img/Textutilies.png",
     github: "https://github.com/syedowais312", 
-    demo: "https://your-demo-link.com"   ,
+    demo: "Coming soon" ,
     techstack:["ReactJS"]          
   },
    {
@@ -62,8 +76,8 @@ export const items = [
     heading:">smart Work",
     image: "/Projects_img/News_website.png",
     github: "https://github.com/syedowais312", 
-    demo: "https://your-demo-link.com" ,
+    demo: "Coming soon" ,
     techstack:["ReactJS"]            
   },
-
+  
 ];

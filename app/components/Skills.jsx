@@ -30,6 +30,8 @@ export default function Skills() {
         { name: "C", src: "/icons/C_programming.svg" },
         { name: "HTML", src: "/icons/Html.svg" },
         { name: "CSS", src: "/icons/Css.svg" },
+        { name: "Golang", src: "/icons/Golang.svg" },
+
       ].map(({ name, src }) => (
         <div
           key={name}
@@ -65,6 +67,8 @@ export default function Skills() {
          { name: "Github", src: "/FTIcons/github-white-icon.svg" },
         { name: "Git", src: "/FTIcons/git.svg" },
         { name: "express.js", src: "/FTIcons/express-js.svg" },
+        { name: "PostgreSQL", src: "/icons/PostgreSQL.svg" },
+        { name: "Supabase", src: "/icons/Supabase.svg" },
       ].map(({ name, src }) => (
         <div
           key={name}

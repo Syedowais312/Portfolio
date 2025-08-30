@@ -55,6 +55,17 @@ export default function ProjectDetails() {
                   <FaGithub size={50} />
                 </a>
               )}
+               {project.github2 && (
+                <a
+                  href={project.github2}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-green-400 transition"
+                  aria-label="GitHub Repository"
+                >
+                  <FaGithub size={50} />
+                </a>
+              )}
               {project.demo && (
                 <a
                   href={project.demo}

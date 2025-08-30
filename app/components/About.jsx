@@ -8,7 +8,7 @@ export default function ABout() {
             <div className="about-content">
                 <div className="about-image">
                     <div className="profile-photo">
-                       <img src="/Admin_photo.jpg" alt="" />
+                       <img src="/Admin_photo_2.jpg" alt="" />
                     </div>
                 </div>
                 <div className="about-text">
