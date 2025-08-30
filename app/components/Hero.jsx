@@ -25,10 +25,10 @@ export default function Hero() {
       ">Full Stack Web Developer",
   ">AI/ML Enthusiast",
   ">OPen source contributor",
-  ">Hackathon Builder 🚀",
+  ">Hackathon Builder ",
   ">Game Developer (Unreal Engine)",
-  ">Tech Explorer 🔍",
-      "> Code, Create, Innovate, Repeat...",
+  ">Tech Explorer ",
+  "> Code, Create, Innovate, Repeat...",
     ];
 
     let textIndex = 0;
