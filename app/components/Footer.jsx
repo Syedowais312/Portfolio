@@ -13,8 +13,7 @@ export default function Footer() {
         </p>
         <div className="mt-4 flex justify-center items-center gap-2 text-gray-500">
           <span className="text-xs">Made with</span>
-          <span className="text-red-500 animate-pulse">❤️</span>
-          <span className="text-xs">using Next.js & Tailwind CSS</span>
+         
         </div>
       </div>
     </footer>
