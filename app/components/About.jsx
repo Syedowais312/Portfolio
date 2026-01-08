@@ -1,6 +1,5 @@
 "use client";
 import React, { useEffect, useRef, useState } from 'react';
-import Image from 'next/image';
 
 export default function About() {
   const [isVisible, setIsVisible] = useState(false);
@@ -39,7 +38,7 @@ export default function About() {
               <div className="absolute inset-0 bg-gradient-to-r from-green-400 to-blue-500 rounded-full blur-xl opacity-50 group-hover:opacity-75 transition-opacity"></div>
               <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-[#00ff7f] shadow-[0_0_30px_rgba(0,255,127,0.3)] hover:shadow-[0_0_50px_rgba(0,255,127,0.5)] transition-all duration-300">
                 <img 
-                  src="/Admin_photo_2.jpg" 
+                  src="/image.png" 
                   alt="Syed Owais" 
                   className="w-full h-full object-cover"
                 />

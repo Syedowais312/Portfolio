@@ -11,6 +11,19 @@ export const items = [
     demo: "https://edu-flow-lms.vercel.app/" ,
     techstack:["NextJs","Tailswind","Golang","Javascript","css"]            
   },
+  
+  {
+    projectName:"Floatchat-Ocean",
+    title: "Floatchat-Ocean",
+    desc: "Blind Navigation Assistant – A voice-guided web app designed to help visually impaired users navigate safely and independently. It integrates real-time obstacle detection, voice-based directions, and map assistance to provide an intuitive and accessible navigation experience.",
+    time:"20-12-2025",
+    heading:"> Now Ocean is never misterious",
+    image: "/Projects_img/floatchat-Ocean.png",
+    github: "https://github.com/Syedowais312/floatchat",  
+    demo: "Coming soon" ,
+    techstack:["Streamlit","flask","python","RAG Pipline"]            
+  },
+  
     {
     projectName:"hope-foundation",
     title: "hope-foundation",
@@ -25,7 +38,7 @@ export const items = [
 
   {
     projectName:"BlindNav",
-    title: "smart IOT Helmet",
+    title: "BlindNav",
     desc: "Blind Navigation Assistant – A voice-guided web app designed to help visually impaired users navigate safely and independently. It integrates real-time obstacle detection, voice-based directions, and map assistance to provide an intuitive and accessible navigation experience.",
     time:"20-12-2025",
     heading:"> hope of blind people",
@@ -34,6 +47,7 @@ export const items = [
     demo: "Coming soon" ,
     techstack:["ReactJS","python","Tailwind"]            
   },
+
 
   {
     projectName:"smart-helmet",
